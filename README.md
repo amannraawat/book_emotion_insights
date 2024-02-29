@@ -1,8 +1,4 @@
-<br/>
-<p align="center">
-  <h align="center">Book-Emotion-Insights</h>
-</p>
-
+<h1 align="center" id="title">Book Emotion Insights</h1>
 
 ## About The Project
 
